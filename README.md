@@ -23,7 +23,7 @@
 |Amazon API Gateway | ... | ... | link|
 |Amazon SES | ... | ... | link|
 |Amazon Cognito | ... | ... | link|
-|IAM | ... | ... | link|
+|IAM | ... | ... | [IAM](https://github.com/Salman9193/aws-dev-assoc/blob/main/iam/README.md)|
 |Amazon CloudWatch | ... | ... | link|
 |Amazon EC2 Systems Manager | ... | ... | link|
 |AWS CloudFormation | ... | ... | link|
