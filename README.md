@@ -1,4 +1,4 @@
-![image](https://github.com/Salman9193/aws-dev-assoc/assets/8647812/8d81e43f-d8c6-4079-9e9f-cb6af8447210)# aws-dev-assoc
+# aws-dev-assoc
 
 | AWS Service | Use Case | Availability | Details |
 | -------- | ------- | ------- | ------- | 
