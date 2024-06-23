@@ -33,7 +33,7 @@
 
 | AWS Service | Use Case | Availability | Details |
 | -------- | ------- | ------- | ------- | 
-|Amazon EC2 | ... | ... | link|
+|Amazon EC2 | ... | ... | [EC2](https://github.com/Salman9193/aws-dev-assoc/blob/main/ec2/README.md)|
 |Amazon ECR | ... | ... | link|
 |Amazon ECS | ... | ... | link|
 |AWS Elastic Beanstalk | ... | ... | link|
